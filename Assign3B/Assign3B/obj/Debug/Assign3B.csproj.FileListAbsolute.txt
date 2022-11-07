@@ -1,0 +1,8 @@
+C:\Users\91950\source\repos\Assign3B\Assign3B\bin\Debug\Assign3B.exe.config
+C:\Users\91950\source\repos\Assign3B\Assign3B\bin\Debug\Assign3B.exe
+C:\Users\91950\source\repos\Assign3B\Assign3B\bin\Debug\Assign3B.pdb
+C:\Users\91950\source\repos\Assign3B\Assign3B\obj\Debug\Assign3B.csproj.AssemblyReference.cache
+C:\Users\91950\source\repos\Assign3B\Assign3B\obj\Debug\Assign3B.csproj.SuggestedBindingRedirects.cache
+C:\Users\91950\source\repos\Assign3B\Assign3B\obj\Debug\Assign3B.csproj.CoreCompileInputs.cache
+C:\Users\91950\source\repos\Assign3B\Assign3B\obj\Debug\Assign3B.exe
+C:\Users\91950\source\repos\Assign3B\Assign3B\obj\Debug\Assign3B.pdb
